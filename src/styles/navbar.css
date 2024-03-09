@@ -1,0 +1,21 @@
+.container-navbar {
+  height: 100vh;
+  width: 20%;
+  color: var(--green);
+  background-color: var(--white);
+  transform: translateX(-100%);
+  transition: all 1s;
+}
+
+.container-navbar h1 {
+  font-size: 30px;
+}
+
+.container-navbar h1,
+.container-navbar p {
+  font-family: var(--pop);
+}
+
+.aaaa {
+  border: 2px solid black;
+}

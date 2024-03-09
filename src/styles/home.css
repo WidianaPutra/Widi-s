@@ -1,0 +1,18 @@
+.container-contain-home {
+  transform: translateY(100%);
+  transition: all 1.5s ease;
+  padding: 10px;
+}
+
+.container-contain-home h1 {
+  font-size: 50px;
+}
+
+.container-contain-home .button button {
+  background-color: var(--green);
+  margin: 0px 10px;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  color: #fff;
+}

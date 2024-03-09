@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&family=Shadows+Into+Light&display=swap");
+:root {
+  --pop: "Poppins";
+  --shd: "Shadows Into Light";
+  --white: #fbffd3;
+  --green: #37a992;
+}
